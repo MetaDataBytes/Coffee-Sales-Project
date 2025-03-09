@@ -1,1 +1,1 @@
-To build the database using the set of commands in the "SQLCMD" file make sure to update the "BULK INSERT" command directory in the "02 - STAGING_TABLE.SQL" file with the FOLDER_PATH. Do the same for the directory in the "SQLCMD" file.
+COFFEE SALES DATA BASE: To build the database using the set of commands in the "SQLCMD" file make sure to update the "BULK INSERT" command directory in the "02 - STAGING_TABLE.SQL" file with the FOLDER_PATH. Do the same for the directory in the "SQLCMD" file.
